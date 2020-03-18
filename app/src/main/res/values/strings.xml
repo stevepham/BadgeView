@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Badger</string>
+    <string name="binding">Bind / Unbind</string>
+</resources>

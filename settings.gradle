@@ -1,0 +1,3 @@
+rootProject.name='Badger'
+include ':app'
+include ':badgerlib'
